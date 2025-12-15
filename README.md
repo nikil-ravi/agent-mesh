@@ -1,6 +1,6 @@
 ## Agent Mesh
 
-Multi-player “session code” app where profiles are matched by embeddings + an LLM drafts consent-first intros.
+AI based system for scaling communication between people. The idea is that earlier, each person needed to interact with each other person. Now, with AI, we can scale communication; each person enters their info and interests, and the AI agent sort of talks to other AI agents on their behalf, and escalates things to them in a if there are interesting opportunities or if there is some input needed from the human before the AI continues the conversation. 
 
 ### Setup
 
